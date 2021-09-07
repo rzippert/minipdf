@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Minipdf
+Name[pt_BR]=Minipdf
+Comment=Shrinks PDFs with a GUI
+Comment[pt_BR]=Encolhe PDFs com uma interface gráfica
+Categories=Office;
+Exec=minipdf
+Icon=minipdf
+Terminal=false
+Type=Application
+StartupNotify=true
