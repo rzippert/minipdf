@@ -8,3 +8,6 @@ Made to simplify the process enough for non technical users to be able to replic
 Made with bash and YAD. Requires postscript for the "conversion" part.
 
 I hope it helps somebody =)
+
+# screenshot
+![Screenshot from 2021-09-07 21-37-11](https://user-images.githubusercontent.com/2091971/132427247-ea307587-6b36-42b4-828d-933eb6e64cd0.png)
